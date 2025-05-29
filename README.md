@@ -1,0 +1,1 @@
+Aplikacja JavaFX - przetwarzanie obrazów
